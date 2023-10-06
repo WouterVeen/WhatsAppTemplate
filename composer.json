@@ -1,11 +1,11 @@
 {
-    "name": "solvari/whatsapp",
+    "name": "thecodebakery/whatsapp",
     "description": "WhatsApp provider for Trengo-SDK writen by Wouter Veen",
     "version": "1.0.2",
     "authors": [
         {
             "name": "Wouter Veen",
-            "email": "w.veen@solvari.com"
+            "email": "wouterbrveen@gmail.com"
         }
     ],
     "minimum-stability": "dev",
